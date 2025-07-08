@@ -1,0 +1,1 @@
+Un banco realizo una campaña de marketing con la finalidad de atraer nuevos clientes y que los mismos crearan una cuenta de ahorro. He creado una app: https://bankmarketingcampainglogisticregretion-olxebdb3vlawwj2hmzry4n.streamlit.app/ que ayudara al banco a identificar que perfil de cliente no abrira la cuenta ayudando al mismo a optimizar sus recursos.
